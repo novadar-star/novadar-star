@@ -1,4 +1,4 @@
-## Hey, I'm Darla! 👩‍💻
+## Hey, I'm Darla Nova! 👩‍💻
 
 <h2 align="center">simply learning and building stuff :3</h2>
 
