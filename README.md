@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on <strong> CS50X and <a href = "https://www.theodinproject.com/dashboard">The Odin Project</a></strong>
 - 🌱 I’m currently learning <strong> HTML, CSS, JS </strong>
+- 📫 Year: Sophomore
 - 😄 Pronouns: she/her
 
  ###
@@ -36,15 +37,14 @@
 ###
 
 <div align="left">
-  <a href = "www.linkedin.com/in/darla-nova" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/darla-nova" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
+
 
 ###
 
 <br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/novadar-star/novadar-star/output/github-contribution-grid-snake.svg)
 
 ###
