@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/novadar-star/novadar-star/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/novadar-star/novadar-star/output/github-contribution-grid-snake.svg)
 
 ###
