@@ -1,13 +1,15 @@
-## Hey, I'm Darla ! 👩‍💻
+## Hey, I'm Darla! 👩‍💻
 
-<h2 align="center"> simply learning and building stuff :3 </h3>
+<h2 align="center">simply learning and building stuff :3</h2>
 
-###
+---
 
-- 🔭 I’m currently working on <strong> CS50X and <a href = "https://www.theodinproject.com/dashboard">The Odin Project</a></strong>
-- 🌱 I’m currently learning <strong> HTML, CSS, JS </strong>
-- 📫 Year: Sophomore
+- 🔭 I’m currently working on <strong>CS50x</strong> and <a href="https://www.theodinproject.com/dashboard"><strong>The Odin Project</strong></a>
+- 🌱 Strengthening skills in <strong>HTML, CSS, JavaScript</strong>
+- ☁️ Grinding AWS badges to prepare for the <strong>AWS Cloud Practitioner</strong> certification
+- 📚 Sophomore year in progress 🌀
 - 😄 Pronouns: she/her
+
 
  ###
 
