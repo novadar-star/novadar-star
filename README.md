@@ -8,7 +8,6 @@
 - 🌱 Strengthening skills in <strong>HTML, CSS, JavaScript</strong>
 - ☁️ Grinding AWS badges to prepare for the <strong>AWS Cloud Practitioner</strong> certification
 - 📚 Sophomore year in progress 🌀
-- 😄 Pronouns: she/her
 
 
  ###
