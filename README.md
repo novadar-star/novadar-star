@@ -14,9 +14,9 @@
   
 ## ` Studying and Learning` 
 
-- `HTML`, `CSS`, `JavaScript (ES6+)`
-- `Full Stack Web Development (MERN Stack)`
-- `Contents of AWS Certified Cloud Practitioner `
+- HTML`, `CSS`, `JavaScript (ES6+)
+- `Full Stack Web Development (MERN Stack)
+- `Contents of AWS Certified Cloud Practitioner 
 
 
 ## `Github Stats` ˖°🌊🎐𓇼⋆🦪₊
