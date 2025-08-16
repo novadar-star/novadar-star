@@ -10,15 +10,14 @@
 - ☁️ Grinding AWS badges to prepare for the <strong>AWS Cloud Practitioner</strong> certification
 - 📚 Sophomore year in progress 🌀
 - ❤️ I love drawing and dancing!
-  
----
 
+  
 ## ` Studying and Learning` 
 
 - `HTML`, `CSS`, `JavaScript (ES6+)`
 - `Full Stack Web Development (MERN Stack)`
 - `Contents of AWS Certified Cloud Practitioner `
----
+
 
 ## `Github Stats` ˖°🌊🎐𓇼⋆🦪₊
 <div align="center">
@@ -28,6 +27,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novadar-star&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  style="margin-bottom =10px" />
 <br>
 </div>
+
+
 
 ## `Languages` 🪼⋆.*:･
 
