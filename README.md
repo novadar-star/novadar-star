@@ -1,17 +1,26 @@
-## 🫧𓇼𓏲*ੈ✩‧₊˚🎐 Hii, I'm Darla Nova. 👩‍💻 🫧𓇼𓏲*ੈ✩‧₊˚🎐
+# 🫧𓇼𓏲*ੈ✩‧₊˚🎐 Hii, I'm Darla Nova. 👩‍💻 🫧𓇼𓏲*ੈ✩‧₊˚🎐
 
 <h2 align="center">simply learning and building stuff :3</h2>
 
+# `Hii, I'm Darla Nova.`
 ---
+
+##  `About Me` °:•.🐠*.•🪸.•:°
 
 - 🔭 I’m currently working on <strong>CS50x</strong> and <a href="https://www.theodinproject.com/dashboard"><strong>The Odin Project</strong></a>
 - 🌱 Strengthening skills in <strong>HTML, CSS, JavaScript</strong>
 - ☁️ Grinding AWS badges to prepare for the <strong>AWS Cloud Practitioner</strong> certification
 - 📚 Sophomore year in progress 🌀
 - ❤️ I love drawing and dancing!
+  
+---
 
+## ` Studying and Learning` °•🪸🪼⁠〰°•
 
- ###
+- `HTML`, `CSS`, `JavaScript (ES6+)`
+- `Full Stack Web Development (MERN Stack)`
+- `Contents of AWS Certified Cloud Practitioner `
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=novadar-star&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"height="150" style="margin-bottom =10px"/>
