@@ -1,7 +1,7 @@
 # 🫧𓇼𓏲*ੈ✩‧₊˚🎐 Welcome ! 🫧𓇼𓏲*ੈ✩‧₊˚🎐
 
 # `Hii, I'm Darla Nova.`
----
+
 
 ##  `About Me` °:•.🐠*.•🪸.•:°
 
@@ -29,7 +29,9 @@
   height="150" alt="stats"/>
 </div>
 
-###
+---
+
+## `Languages`
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
