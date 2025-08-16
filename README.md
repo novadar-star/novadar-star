@@ -13,7 +13,7 @@
   
 ---
 
-## ` Studying and Learning` °•🪸🪼⁠〰°•
+## ` Studying and Learning` 
 
 - `HTML`, `CSS`, `JavaScript (ES6+)`
 - `Full Stack Web Development (MERN Stack)`
@@ -21,15 +21,14 @@
 ---
 ## `Github Stats` ˖°🌊🎐𓇼⋆🦪₊
 <div align="center">
+   <img src="https://streak-stats.demolab.com?user=novadar-star&theme=dracula&hide_border=false"  style="margin-bottom =10px" 
+  height="150" alt="stats"/>
  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novadar-star&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  style="margin-bottom =10px" />
 <br>
- <img src="https://streak-stats.demolab.com?user=novadar-star&theme=dracula&hide_border=false"  style="margin-bottom =10px" 
-  height="150" alt="stats"/>
+
 </div>
-
 ---
-
 ## `Languages` 🪼⋆.*:･
 
 <div align="left">
