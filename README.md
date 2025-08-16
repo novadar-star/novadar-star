@@ -1,7 +1,5 @@
 # 🫧𓇼𓏲*ੈ✩‧₊˚🎐 Welcome ! 🫧𓇼𓏲*ੈ✩‧₊˚🎐
 
-<h2 align="center">simply learning and building stuff :3</h2>
-
 # `Hii, I'm Darla Nova.`
 ---
 
