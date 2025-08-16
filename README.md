@@ -1,4 +1,4 @@
-## Hey, I'm Darla Nova! 👩‍💻
+## Hii, I'm Darla Nova. 👩‍💻 🫧𓇼𓏲*ੈ✩‧₊˚🎐
 
 <h2 align="center">simply learning and building stuff :3</h2>
 
@@ -16,9 +16,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=novadar-star&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"height="150" style="margin-bottom =10px"/>
  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novadar-star&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  style="margin-bottom =10px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novadar-star&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  style="margin-bottom =10px" />
 <br>
- <img src="https://streak-stats.demolab.com?user=novadar-star&theme=dracula&hide_border=true"  style="margin-bottom =10px" 
+ <img src="https://streak-stats.demolab.com?user=novadar-star&theme=dracula&hide_border=false"  style="margin-bottom =10px" 
   height="150" alt="stats"/>
 </div>
 
