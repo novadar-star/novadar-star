@@ -27,9 +27,8 @@
  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novadar-star&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  style="margin-bottom =10px" />
 <br>
-
 </div>
----
+
 ## `Languages` 🪼⋆.*:･
 
 <div align="left">
@@ -43,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
-
+---
 ###
 
 
