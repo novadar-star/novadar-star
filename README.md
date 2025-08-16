@@ -19,6 +19,7 @@
 - `Full Stack Web Development (MERN Stack)`
 - `Contents of AWS Certified Cloud Practitioner `
 ---
+
 ## `Github Stats` ˖°🌊🎐𓇼⋆🦪₊
 <div align="center">
    <img src="https://streak-stats.demolab.com?user=novadar-star&theme=dracula&hide_border=false"  style="margin-bottom =10px" 
