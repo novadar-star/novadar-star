@@ -1,4 +1,4 @@
-## Hii, I'm Darla Nova. 👩‍💻 🫧𓇼𓏲*ੈ✩‧₊˚🎐
+## 🫧𓇼𓏲*ੈ✩‧₊˚🎐 Hii, I'm Darla Nova. 👩‍💻 🫧𓇼𓏲*ੈ✩‧₊˚🎐
 
 <h2 align="center">simply learning and building stuff :3</h2>
 
