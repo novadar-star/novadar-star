@@ -3,7 +3,7 @@
 # `Hii, I'm Darla Nova.`
 
 
-##  `About Me` °:•.🐠*.•🪸.•:°
+##  `About Me` °
 
 - 🔭 I’m currently working on <strong>CS50x</strong> and <a href="https://www.theodinproject.com/dashboard"><strong>The Odin Project</strong></a>
 - 🌱 Strengthening skills in <strong>HTML, CSS, JavaScript</strong>
@@ -19,7 +19,7 @@
 - Contents of AWS Certified Cloud Practitioner 
 
 
-## `Github Stats` ˖°🌊🎐𓇼⋆🦪₊
+## `Github Stats` 
 <div align="center">
    <img src="https://streak-stats.demolab.com?user=novadar-star&theme=dracula&hide_border=false"  style="margin-bottom =10px" 
   height="150" alt="stats"/>
@@ -30,7 +30,7 @@
 
 
 
-## ‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖🎐 `Languages` ‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖🎐
+##  `Languages`
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
