@@ -3,7 +3,7 @@
 # `Hii, I'm Darla Nova.`
 
 
-##  `About Me` °
+##  `About Me` 
 
 - 🔭 I’m currently working on <strong>CS50x</strong> and <a href="https://www.theodinproject.com/dashboard"><strong>The Odin Project</strong></a>
 - 🌱 Strengthening skills in <strong>HTML, CSS, JavaScript</strong>
