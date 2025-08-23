@@ -1,6 +1,6 @@
 # 🫧𓇼𓏲*ੈ✩‧₊˚🎐 Welcome ! 🫧𓇼𓏲*ੈ✩‧₊˚🎐
 
-# `Hii, I'm Darla Nova.`
+# `Hi! I'm Darla Nova.`
 
 
 ##  `About Me` 
@@ -14,7 +14,6 @@
   
 ## ` Studying and Learning` 
 
-- HTML, CSS, JavaScript
 - Full Stack Web Development (MERN Stack)
 - Contents of AWS Certified Cloud Practitioner 
 
