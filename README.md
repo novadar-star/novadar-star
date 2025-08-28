@@ -6,7 +6,6 @@
 ##  `About Me` 
 
 - 🔭 I’m currently working on <a href="https://www.theodinproject.com/dashboard"><strong>The Odin Project</strong></a>
-- 🌱 Strengthening skills in <strong>HTML, CSS, JavaScript</strong>
 - ☁️ Grinding AWS badges to prepare for the <strong>AWS Cloud Practitioner</strong> certification
 - 📚 Sophomore year in progress 🌀
 - ❤️ I love drawing and dancing!
