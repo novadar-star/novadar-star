@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.theodinproject.com/dashboard"><strong>The Odin Project</strong></a>
 - ☁️ Grinding AWS badges to prepare for the <strong>AWS Cloud Practitioner</strong> certification
-- 📚 Sophomore year in progress 🌀
+- 📚 Sophomore year 
 - ❤️ I love drawing and dancing!
 
   
