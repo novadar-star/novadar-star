@@ -1,14 +1,13 @@
 # 🫧𓇼𓏲*ੈ✩‧₊˚🎐 Welcome ! 🫧𓇼𓏲*ੈ✩‧₊˚🎐
 
-# `Hi! I'm Darla Nova.`
+# `Hi, I'm Darla Nova.`
 
 
 ##  `About Me` 
 
 - 📚 Sophomore year 
 - 🔭 I’m currently working on <a href="https://www.theodinproject.com/dashboard"><strong>The Odin Project</strong></a>
-- ☁️ Grinding AWS badges to prepare for the <strong>AWS Cloud Practitioner</strong> certification
-
+- ☁️ Interested in cloud computing
 
   
 ## ` Studying and Learning` 
@@ -16,6 +15,8 @@
 - Full Stack Web Development (MERN Stack)
 - Contents of AWS Certified Cloud Practitioner 
 
+## `Let's Connect` 
+→ <a href="https://www.linkedin.com/in/darla-nova/">
 
 ## `Github Stats` 
 <div align="center">
