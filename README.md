@@ -5,11 +5,11 @@
 
 ##  `About Me` 
 
-- 📚 Sophomore year 
-- 🔭 I’m currently working on <a href="https://www.theodinproject.com/dashboard"><strong>The Odin Project</strong></a>
-- ☁️ Interested in cloud computing
+- Sophomore year
+- Interested in cloud computing
+-  I’m currently working on <a href="https://www.theodinproject.com/dashboard"><strong>The Odin Project</strong></a>
 
-  
+
 ## ` Studying and Learning` 
 
 - Full Stack Web Development (MERN Stack)
