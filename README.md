@@ -16,7 +16,7 @@
 - Contents of AWS Certified Cloud Practitioner 
 
 ## `Let's Connect` 
-→ <a href="https://www.linkedin.com/in/darla-nova/">
+→ <a href="https://www.linkedin.com/in/darla-nova/">LinkedIn</a>
 
 ## `Github Stats` 
 <div align="center">
