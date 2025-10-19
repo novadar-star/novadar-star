@@ -6,8 +6,8 @@
 ##  `About Me` 
 
 - Sophomore year
-- Interested in cloud computing
--  I’m currently working on <a href="https://www.theodinproject.com/dashboard"><strong>The Odin Project</strong></a>
+- Interested in cloud computing, ai and web dev 
+
 
 
 ## ` Studying and Learning` 
