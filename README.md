@@ -4,10 +4,8 @@
 
 
 ##  `About Me` 
-
 - Sophomore year
 - Interested in cloud computing, ai and web dev 
-
 
 
 ## ` Studying and Learning` 
@@ -15,8 +13,7 @@
 - Full Stack Web Development (MERN Stack)
 - Contents of AWS Certified Cloud Practitioner 
 
-## `Let's Connect` 
-→ <a href="https://www.linkedin.com/in/darla-nova/">LinkedIn</a>
+
 
 ## `Github Stats` 
 <div align="center">
